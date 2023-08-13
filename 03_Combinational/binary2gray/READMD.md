@@ -4,7 +4,8 @@
 
   hls
 
-  
+  ![image](https://github.com/Kman1016/SocLab/assets/72218646/59d0c1fe-2d3c-4421-95e6-c0926fd0a6c1)
+
 
   verilog
   
